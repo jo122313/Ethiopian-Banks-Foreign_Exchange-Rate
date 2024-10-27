@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\infrastructure\\repositories\\dataservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\infrastructure\\repositories\\dataservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\domain\\interfaces\\iexchangeratescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\domain\\interfaces\\iexchangeratescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\infrastructure\\repositories\\exchangeratescraperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\infrastructure\\repositories\\exchangeratescraperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\domain\\entities\\banksexchangeratesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\domain\\entities\\banksexchangeratesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\infrastructure\\repositories\\dataupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\infrastructure\\repositories\\dataupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\util\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\util\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\domain\\entities\\currencyexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\domain\\entities\\currencyexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\wwwroot\\js\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\wwwroot\\js\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\wwwroot\\js\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\wwwroot\\js\\data.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\domain\\entities\\xpathmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\domain\\entities\\xpathmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\domain\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\domain\\interfaces\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|c:\\users\\tamirat\\source\\repos\\bankforeignexchange\\bankforeignexchange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF37F3CB-1F65-4556-8B08-854789BDF7CA}|BankForeignExchange\\BankForeignExchange.csproj|solutionrelative:bankforeignexchange\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\DataServiceRepository.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Infrastructure\\Repositories\\DataServiceRepository.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\DataServiceRepository.cs",
+              "RelativeToolTip": "BankForeignExchange\\Infrastructure\\Repositories\\DataServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:34:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BankForeignExchange\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BankForeignExchange\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T16:11:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "signalr.js",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\signalr.js",
+              "RelativeDocumentMoniker": "BankForeignExchange\\wwwroot\\js\\signalr.js",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\signalr.js",
+              "RelativeToolTip": "BankForeignExchange\\wwwroot\\js\\signalr.js",
+              "ViewState": "AgIAAJsFAAAAAAAAAAAYwOwNAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T16:05:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "data.js",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\data.js",
+              "RelativeDocumentMoniker": "BankForeignExchange\\wwwroot\\js\\data.js",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\wwwroot\\js\\data.js",
+              "RelativeToolTip": "BankForeignExchange\\wwwroot\\js\\data.js",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T16:02:46.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRateScraperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\ExchangeRateScraperRepository.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Infrastructure\\Repositories\\ExchangeRateScraperRepository.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\ExchangeRateScraperRepository.cs",
+              "RelativeToolTip": "BankForeignExchange\\Infrastructure\\Repositories\\ExchangeRateScraperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:01:41.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataUpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\DataUpdateService.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Infrastructure\\Repositories\\DataUpdateService.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Infrastructure\\Repositories\\DataUpdateService.cs",
+              "RelativeToolTip": "BankForeignExchange\\Infrastructure\\Repositories\\DataUpdateService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:03:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExchangeRateScraper.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Interfaces\\IExchangeRateScraper.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Domain\\Interfaces\\IExchangeRateScraper.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Interfaces\\IExchangeRateScraper.cs",
+              "RelativeToolTip": "BankForeignExchange\\Domain\\Interfaces\\IExchangeRateScraper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:57:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Interfaces\\IDataService.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Domain\\Interfaces\\IDataService.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Interfaces\\IDataService.cs",
+              "RelativeToolTip": "BankForeignExchange\\Domain\\Interfaces\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:54:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XPathModel.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\XPathModel.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Domain\\Entities\\XPathModel.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\XPathModel.cs",
+              "RelativeToolTip": "BankForeignExchange\\Domain\\Entities\\XPathModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:12:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\CurrencyExchangeRate.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Domain\\Entities\\CurrencyExchangeRate.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\CurrencyExchangeRate.cs",
+              "RelativeToolTip": "BankForeignExchange\\Domain\\Entities\\CurrencyExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:03:25.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BanksExchangeRatesModel.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\BanksExchangeRatesModel.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Domain\\Entities\\BanksExchangeRatesModel.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Domain\\Entities\\BanksExchangeRatesModel.cs",
+              "RelativeToolTip": "BankForeignExchange\\Domain\\Entities\\BanksExchangeRatesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:01:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Util\\MyHub.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Util\\MyHub.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Util\\MyHub.cs",
+              "RelativeToolTip": "BankForeignExchange\\Util\\MyHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:46:11.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeRateController.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Controllers\\ExchangeRateController.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Controllers\\ExchangeRateController.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Controllers\\ExchangeRateController.cs",
+              "RelativeToolTip": "BankForeignExchange\\Controllers\\ExchangeRateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Program.cs",
+              "RelativeDocumentMoniker": "BankForeignExchange\\Program.cs",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\Program.cs",
+              "RelativeToolTip": "BankForeignExchange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:34:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\appsettings.json",
+              "RelativeDocumentMoniker": "BankForeignExchange\\appsettings.json",
+              "ToolTip": "C:\\Users\\tamirat\\source\\repos\\BankForeignExchange\\BankForeignExchange\\appsettings.json",
+              "RelativeToolTip": "BankForeignExchange\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T11:21:32.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
